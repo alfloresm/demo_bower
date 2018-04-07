@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_bower",
+  "authors": [
+    "Alexandra Flores <alexandraf0925@gmail.com>"
+  ],
+  "description": "mi primer proyecto en bower",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "fontawesome": "^5.0.9"
+  }
+}
